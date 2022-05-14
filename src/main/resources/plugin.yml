@@ -1,0 +1,6 @@
+name: ItemExceptionFix
+main: com.github.code3zero.Main
+version: ${pom.version}
+api: [ 1.0.0 ]
+author: Code3zero
+load: STARTUP
